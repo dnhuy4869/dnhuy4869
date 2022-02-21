@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.facebook.com/dnhuy4869/" target="_blank" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+<a href="discord.gg/XxYa32xAGx" target="_blank" /> <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"> </a>
 <img src="https://komarev.com/ghpvc/?username=dnhuy4869&color=blue">
 
 ---

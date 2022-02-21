@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.facebook.com/dnhuy4869/" target="_blank"/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+<a href="https://www.facebook.com/dnhuy4869/" target="_blank" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 <img src="https://komarev.com/ghpvc/?username=dnhuy4869&color=blue">
 
 ---
